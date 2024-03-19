@@ -1,0 +1,31 @@
+<div class="container">
+    <h1 class="my-3">Thêm nhân viên</h1>
+    <div class="row">
+        <!-- [formGroup]="employeeForm" (ngSubmit)="addEmployee()" -->
+        <div class="col-6">
+            <form #form="ngForm" (ngSubmit)="addEmployee()">
+                <div class="mb-3">
+                  <label for="name" class="form-label">Họ Tên</label>
+                  <input type="text" class="form-control" id="name" name="name" [(ngModel)]="addEmployRequest.name">
+                </div>
+                <div class="mb-3">
+                    <label for="email" class="form-label">Email</label>
+                    <input type="email" class="form-control" id="email" name="email"  [(ngModel)]="addEmployRequest.email">
+                </div>
+                <div class="mb-3">
+                    <label for="phone" class="form-label">Số điện thoại</label>
+                    <input type="text" class="form-control" id="phone" name="phone"  [(ngModel)]="addEmployRequest.phone">
+                </div>
+                <div class="mb-3">
+                    <label for="salary" class="form-label">Lương</label>
+                    <input type="number" class="form-control" id="salary" name="salary"  [(ngModel)]="addEmployRequest.salary">
+                </div>
+                <div class="mb-3">
+                    <label for="department" class="form-label">Phòng ban</label>
+                    <input type="text" class="form-control" id="department" name="department"  [(ngModel)]="addEmployRequest.department">
+                </div>
+                <button type="submit" class="btn btn-primary">Thêm</button>
+            </form>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,233 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Angular\\crud-api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3EDE3E0-223E-4623-AA50-C4B212008080}|crud-api\\crud-api.csproj|d:\\angular\\crud-api\\crud-api\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3EDE3E0-223E-4623-AA50-C4B212008080}|crud-api\\crud-api.csproj|solutionrelative:crud-api\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3EDE3E0-223E-4623-AA50-C4B212008080}|crud-api\\crud-api.csproj|d:\\angular\\crud-api\\crud-api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3EDE3E0-223E-4623-AA50-C4B212008080}|crud-api\\crud-api.csproj|solutionrelative:crud-api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3EDE3E0-223E-4623-AA50-C4B212008080}|crud-api\\crud-api.csproj|d:\\angular\\crud-api\\crud-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3EDE3E0-223E-4623-AA50-C4B212008080}|crud-api\\crud-api.csproj|solutionrelative:crud-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3EDE3E0-223E-4623-AA50-C4B212008080}|crud-api\\crud-api.csproj|d:\\angular\\crud-api\\crud-api\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3EDE3E0-223E-4623-AA50-C4B212008080}|crud-api\\crud-api.csproj|solutionrelative:crud-api\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3EDE3E0-223E-4623-AA50-C4B212008080}|crud-api\\crud-api.csproj|d:\\angular\\crud-api\\crud-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F3EDE3E0-223E-4623-AA50-C4B212008080}|crud-api\\crud-api.csproj|solutionrelative:crud-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3EDE3E0-223E-4623-AA50-C4B212008080}|crud-api\\crud-api.csproj|d:\\angular\\crud-api\\crud-api\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3EDE3E0-223E-4623-AA50-C4B212008080}|crud-api\\crud-api.csproj|solutionrelative:crud-api\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3EDE3E0-223E-4623-AA50-C4B212008080}|crud-api\\crud-api.csproj|d:\\angular\\crud-api\\crud-api\\crud-api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{F3EDE3E0-223E-4623-AA50-C4B212008080}|crud-api\\crud-api.csproj|solutionrelative:crud-api\\crud-api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3EDE3E0-223E-4623-AA50-C4B212008080}|crud-api\\crud-api.csproj|d:\\angular\\crud-api\\crud-api\\crud-api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F3EDE3E0-223E-4623-AA50-C4B212008080}|crud-api\\crud-api.csproj|solutionrelative:crud-api\\crud-api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3EDE3E0-223E-4623-AA50-C4B212008080}|crud-api\\crud-api.csproj|d:\\angular\\crud-api\\crud-api\\crud-api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{F3EDE3E0-223E-4623-AA50-C4B212008080}|crud-api\\crud-api.csproj|solutionrelative:crud-api\\crud-api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Angular\\crud-api\\crud-api\\Migrations\\20240317161536_Initial Migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:crud-api\\Migrations\\20240317161536_Initial Migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 281,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240317161536_Initial Migration.cs",
+              "DocumentMoniker": "D:\\Angular\\crud-api\\crud-api\\Migrations\\20240317161536_Initial Migration.cs",
+              "RelativeDocumentMoniker": "crud-api\\Migrations\\20240317161536_Initial Migration.cs",
+              "ToolTip": "D:\\Angular\\crud-api\\crud-api\\Migrations\\20240317161536_Initial Migration.cs",
+              "RelativeToolTip": "crud-api\\Migrations\\20240317161536_Initial Migration.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T16:16:28.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Angular\\crud-api\\crud-api\\Program.cs",
+              "RelativeDocumentMoniker": "crud-api\\Program.cs",
+              "ToolTip": "D:\\Angular\\crud-api\\crud-api\\Program.cs",
+              "RelativeToolTip": "crud-api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAACMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T06:10:29.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "D:\\Angular\\crud-api\\crud-api\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "crud-api\\Controllers\\EmployeesController.cs",
+              "ToolTip": "D:\\Angular\\crud-api\\crud-api\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "crud-api\\Controllers\\EmployeesController.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAtwEUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T07:15:28.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\Angular\\crud-api\\crud-api\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "crud-api\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\Angular\\crud-api\\crud-api\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "crud-api\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T16:16:39.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Angular\\crud-api\\crud-api\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "crud-api\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Angular\\crud-api\\crud-api\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "crud-api\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T06:04:14.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Angular\\crud-api\\crud-api\\appsettings.json",
+              "RelativeDocumentMoniker": "crud-api\\appsettings.json",
+              "ToolTip": "D:\\Angular\\crud-api\\crud-api\\appsettings.json",
+              "RelativeToolTip": "crud-api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-15T09:01:47.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Angular\\crud-api\\crud-api\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "crud-api\\Models\\Employee.cs",
+              "ToolTip": "D:\\Angular\\crud-api\\crud-api\\Models\\Employee.cs",
+              "RelativeToolTip": "crud-api\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T06:01:29.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "crud-api.http",
+              "DocumentMoniker": "D:\\Angular\\crud-api\\crud-api\\crud-api.http",
+              "RelativeDocumentMoniker": "crud-api\\crud-api.http",
+              "ToolTip": "D:\\Angular\\crud-api\\crud-api\\crud-api.http",
+              "RelativeToolTip": "crud-api\\crud-api.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-03-15T09:06:30.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "crud-api.csproj",
+              "DocumentMoniker": "D:\\Angular\\crud-api\\crud-api\\crud-api.csproj",
+              "RelativeDocumentMoniker": "crud-api\\crud-api.csproj",
+              "ToolTip": "D:\\Angular\\crud-api\\crud-api\\crud-api.csproj",
+              "RelativeToolTip": "crud-api\\crud-api.csproj",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAawBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-15T09:53:57.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "crud-api",
+              "DocumentMoniker": "D:\\Angular\\crud-api\\crud-api\\crud-api.csproj",
+              "RelativeDocumentMoniker": "crud-api\\crud-api.csproj",
+              "ToolTip": "D:\\Angular\\crud-api\\crud-api\\crud-api.csproj",
+              "RelativeToolTip": "crud-api\\crud-api.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-15T10:04:29.776Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 119,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
